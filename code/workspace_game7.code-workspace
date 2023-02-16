@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.typeCheckingMode": "strict",
+		"python.analysis.extraPaths": [
+			"C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages"
+		],
+		"pylint.path": [
+			"C:\\Users\\DELL\\Documents\\GitHub\\No7-Base_game\\code\\game7.pylintrc"
+		],
+		"background.enabled": true,
+		"background.useDefault": false,
+		"background.useFront":true,
+		"background.customImages": [
+"file:///C:/Users/DELL/Desktop/cong_viec/cong_ty_Gemany/app_7/graphics/character/idle/5.png",
+"file:///C:/Users/DELL/Desktop/cong_viec/cong_ty_Gemany/app_7/graphics/enemy/run/3.png",
+"file:///C:/Users/DELL/Desktop/cong_viec/cong_ty_Gemany/app_7/graphics/enemy/run/5.png",
+],
+		"background.styles":[
+
+			{"opacity": 0.3,
+			"background-size": "100px 85px",
+			"background-position": "bottom right",
+			},
+			{"opacity": 0.3,
+			"background-size": "100px 100px",
+			"background-position": "bottom right"
+			},
+			{"opacity": 0.3,
+			"background-size": "100px 100px",
+			"background-position": "bottom right"
+			}
+		],
+		"gitlens.codeLens.scopes": [
+			"document",
+			"containers"
+		],
+	}
+}
